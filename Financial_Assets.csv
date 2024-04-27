@@ -1,0 +1,11 @@
+Asset_id,Type,Ticker_symbol,Name
+1,Stock,MSFT,Microsoft Inc.
+2,Stock,AMZN,Aamazon Inc.
+3,Stock,AAPL,Apple Inc.
+4,Stock,GOOGL,Google Inc.
+5,Stock,IBM,IBM Inc.
+6,Commodity,XAUUSD,Gold
+7,Commodity,XAGUSD,Silver
+8,Commodity,CL,Crude Oil
+9,Commodity,CO,Crude Oil (Brent)
+10,Commodity,NG,Natural Gas
